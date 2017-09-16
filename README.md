@@ -3,9 +3,9 @@
 ## Status
 |    **Item**    | **Status** |
 |----------------|------------|
-| Weather        |  :sun:     |
-| Mood           | :sleepy:   |
-| Color          | :pink:     |
+| Weather        | :smile:    |
+| Mood           | :happy:    |
+
 
 
 ## Education
