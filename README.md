@@ -33,7 +33,8 @@ files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
 
 ```
 
-![Here is the Cat](http://www.petmd.com/sites/default/files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
+![Here is the Cat!](http://www.petmd.com/sites/default/files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
+
 
 
 
