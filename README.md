@@ -10,13 +10,13 @@
 
 ## Education
 
-###**Undergraduate**
+### Undergraduate
 
 + [SFU](https://www.sfu.ca/)
 	- Department
         * ***Biology***
 
-###**Graduate**
+### Graduate
 
 + [UBC](https://www.ubc.ca/)
 	- Department
@@ -37,6 +37,6 @@
 ![](https://media.giphy.com/media/T7VuyIFl3jimI/giphy.gif)
 
 3. Piano
-      + **never <del>*touch</del>* after *grad 10* test** :crying:
+      + **never <del>*touch</del>* after *grad 10* test** :sweat_smile:
 
 
