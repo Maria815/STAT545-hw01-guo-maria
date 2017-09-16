@@ -3,8 +3,8 @@
 ## Status
 |    **Item**    | **Status** |
 |----------------|------------|
-| Weather        |  :poop:    |
-| Mood           | :happy:    |
+| Weather        |  :sun:     |
+| Mood           | :sleepy:   |
 | Color          | :pink:     |
 
 
