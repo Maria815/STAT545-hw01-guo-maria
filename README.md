@@ -26,7 +26,7 @@
 
 
 ## Interest
-1. Reading Books
+1. Read Books
     + ***Miracles of the Namiya General Store***
           * >"Your dedication to the pursuit of music, never pay in vain. I    believe that someone will be redeemed for your song. Your music will be handed down. To ask me why I can assert, I can hardly answer, but it is true. Please always believe this, convinced that the last moment of life"
             >
@@ -36,7 +36,7 @@
 
 ![](https://media.giphy.com/media/T7VuyIFl3jimI/giphy.gif)
 
-3. ~~Piano~~
-      + never touch after grad 10 test 
+3. Piano
+      + **never <del>*touch</del>* after *grad 10* test** :crying:
 
 
