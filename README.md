@@ -61,10 +61,11 @@ files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
 
 
 
+
 ## Process report
 1. At begining, I edited original readme file in github. Then I created a new git with cloned github repository. To edit readme, I pull from github first then edit locally.
 2. Everytime I save and commit, then push to github.
-3. write this report in the browser at github.com, not locally.
+3. I wrote this report in the browser at github.com, not locally.
 4. Once I need to edit locally, I pull file first, then edit, commit and push back to repository.
 
 
