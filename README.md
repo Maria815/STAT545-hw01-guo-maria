@@ -4,7 +4,7 @@
 |    **Item**    | **Status** |
 |----------------|------------|
 | Weather        | :smile:    |
-| Mood           | :happy:    |
+| Mood           | :blush:    |
 
 
 
