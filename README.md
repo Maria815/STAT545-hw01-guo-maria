@@ -25,7 +25,7 @@
 ### Current Study
 I am learning code writing in Rstudio, let's try to grab a cute cat!
 
-Here is the code:
+Here is the code.
 
 ```R 
 ![Here is the Cat!](http://www.petmd.com/sites/default/
@@ -33,7 +33,9 @@ files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
 
 ```
 
-![Here is the Cat!](http://www.petmd.com/sites/default/files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
+![Here is the Cat.](http://www.petmd.com/sites/default/files/what-does-it-mean-when-cat-wags-tail.jpg "Cute Cats.")
+
+
 
 
 
